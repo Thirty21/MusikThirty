@@ -10,7 +10,7 @@ body{
     justify-content: center;
 }
 .wrapper{
-    position: fixed:
+    position: fixed;
     border: 1px solid transparent;
     padding: 30px;
     border-radius: 20px;
