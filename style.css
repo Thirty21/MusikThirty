@@ -1,10 +1,8 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
-    overflow: hidden;
 }
 .player{
-    position: fixed:
     height: 95vh;
     display: flex;
     align-items: center;
@@ -12,6 +10,7 @@ body{
     justify-content: center;
 }
 .wrapper{
+    position: fixed:
     border: 1px solid transparent;
     padding: 30px;
     border-radius: 20px;
