@@ -1,6 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
+    overflow: hidden;
 }
 .player{
     height: 95vh;
